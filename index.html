@@ -7,6 +7,7 @@
     <script src="https://d3plus.org/js/d3plus.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <script src="links.js"></script>
+    <script src="links2.js"></script>
     <script src="nodeAtts.js"></script>
 
 
@@ -74,11 +75,10 @@
 
 
 <script>
-  console.log(links[1].color)
   let viz = d3plus.viz()
     .container("#viz")  
     .type("rings")      
-    .edges(links) 
+    .edges(links2) 
     .attrs(nodeAtt)
     .edges({"arrows": true})
     .color({

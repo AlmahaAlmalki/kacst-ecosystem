@@ -64,8 +64,24 @@ var nodeAtt = [
 
   {"id": "Incubators and Accelerators Program (Badir)",  "color" : "#4E180B", "sector" : "Commercialization"},
   {"id": "Industry 4.0",  "color" : "#4E180B", "sector" : "Commercialization"},
-  {"id": "National Security Program", "color" : "#1B2C5F", "sector" : "Research and Development"}
+  {"id": "National Security Program", "color" : "#1B2C5F", "sector" : "Research and Development"},
 
+  { "source": "KACST" , "target": "Infrastructure", "color": "#000"},
+  { "source": "KACST" , "target": "Research and Development", "color": "#000"},
+  { "source": "KACST" , "target": "Commercialization", "color": "#000"},
 
+  { "source": "Infrastructure" , "target": "IT services", "color": "#0B4E4A"},
+  { "source": "Infrastructure" , "target": "Core Labs Unit","color": "#0B4E4A"},
+  { "source": "Infrastructure" , "target": "Safety and Security Unit", "color": "#0B4E4A"},
+  { "source": "Infrastructure" , "target": "Facilities and Operation Unit", "color": "#0B4E4A"},
+
+  { "source": "Research and Development" , "target": "Research Institute", "color" : "#1B2C5F"},
+  { "source": "Research and Development" , "target": "Consultation Studies Unit", "color" : "#1B2C5F"},
+  { "source": "Research and Development" , "target": "Technology Leaders Program", "color" : "#1B2C5F"},
+
+  { "source": "Commercialization" , "target": "Technology Investment Program", "color" : "#4E180B"},
+  { "source": "Commercialization" , "target": "Industrial Innovation and Development Program", "color" : "#4E180B"},
+  { "source": "Commercialization" , "target": "Development and Consulting Services", "color" : "#4E180B"},
+  { "source": "Commercialization" , "target": "Technology Transfer Program", "color" : "#4E180B"}
 
 ]
