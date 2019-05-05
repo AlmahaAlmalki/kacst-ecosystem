@@ -21,7 +21,7 @@ var nodeAtt = [
   {"id": "Safety and Security Unit", "target": "Facilities and Operation Unit", "link": "provides Safety and Security", "color": "#0B4E4A", "sector": "Infrastructure"},
   {"id": "Safety and Security Unit", "target": "Research Institute", "link": "provides Safety and Security", "color": "#0B4E4A", "sector": "Infrastructure"},
   {"id": "Safety and Security Unit", "target": "National Security Program", "link": "provides Safety and Security", "color": "#0B4E4A", "sector": "Infrastructure"},
-  {"id": "Safety and Security Unit", "target": "consultation Studies Unit", "link": "provides Safety and Security", "color": "#0B4E4A", "sector": "Infrastructure"},
+  {"id": "Safety and Security Unit", "target": "Consultation Studies Unit", "link": "provides Safety and Security", "color": "#0B4E4A", "sector": "Infrastructure"},
   {"id": "Safety and Security Unit", "target": "Industry 4.0", "link": "provides Safety and Security", "color": "#0B4E4A", "sector": "Infrastructure"},
   {"id": "Safety and Security Unit", "target": "Industrial Innovation and Development Program", "link": "provides Safety and Security", "color": "#0B4E4A", "sector": "Infrastructure"},
 
@@ -60,6 +60,12 @@ var nodeAtt = [
   { "id": "Development and Consulting Services" , "target": "Consultation Studies Unit" , "link" : "provides opportunities", "color" : "#4E180B", "sector" : "Commercialization"} ,
   { "id": "Development and Consulting Services" , "target": "Research Institute" , "link" : "provides opportunities", "color" : "#4E180B", "sector" : "Commercialization"} ,
   
-  { "id": "Technology Transfer Program" , "target": "Incubators and Accelerators Program" , "link" : "provides startup ideas", "color" : "#4E180B", "sector" : "Commercialization"} 
+  { "id": "Technology Transfer Program" , "target": "Incubators and Accelerators Program (Badir)" , "link" : "provides startup ideas", "color" : "#4E180B", "sector" : "Commercialization"},
+
+  {"id": "Incubators and Accelerators Program (Badir)",  "color" : "#4E180B", "sector" : "Commercialization"},
+  {"id": "Industry 4.0",  "color" : "#4E180B", "sector" : "Commercialization"},
+  {"id": "National Security Program", "color" : "#1B2C5F", "sector" : "Research and Development"}
+
+
 
 ]
