@@ -63,7 +63,6 @@ var links2 = [
   
   { "source": "Technology Transfer Program" , "target": "Incubators and Accelerators Program" , "link" : "provides startup ideas", "color" : "green", "sector" : "Commercialization"}, 
 
-<<<<<<< HEAD
   { "source": "KACST" , "target": "Infrastructure", "link" : "provides ... ", "color": "#000"},
   { "source": "KACST" , "target": "Research and Development", "link" : "provides ...", "color": "#000"},
   { "source": "KACST" , "target": "Commercialization", "link" : "provides ... " , "color": "#000"},
@@ -81,24 +80,5 @@ var links2 = [
   { "source": "Commercialization" , "target": "Industrial Innovation and Development Program",  "link" : "provides ... " ,"color" : "#4E180B"},
   { "source": "Commercialization" , "target": "Development and Consulting Services", "link" : "provides ... " , "color" : "#4E180B"},
   { "source": "Commercialization" , "target": "Technology Transfer Program", "link" : "provides ... " , "color" : "#4E180B"}
-=======
-  { "source": "KACST" , "target": "Infrastructure"},
-  { "source": "KACST" , "target": "Research and Development"},
-  { "source": "KACST" , "target": "Commercialization"},
-
-  { "source": "Infrastructure" , "target": "IT services"},
-  { "source": "Infrastructure" , "target": "Core Labs Unit"},
-  { "source": "Infrastructure" , "target": "Safety and Security Unit"},
-  { "source": "Infrastructure" , "target": "Facilities and Operation Unit"},
-
-  { "source": "Research and Development" , "target": "Research Institute"},
-  { "source": "Research and Development" , "target": "Consultation Studies Unit"},
-  { "source": "Research and Development" , "target": "Technology Leaders Program"},
-
-  { "source": "Commercialization" , "target": "Technology Investment Program"},
-  { "source": "Commercialization" , "target": "Industrial Innovation and Development Program"},
-  { "source": "Commercialization" , "target": "Development and Consulting Services"},
-  { "source": "Commercialization" , "target": "Technology Transfer Program"}
->>>>>>> a502169d37fb3e452c43636aeb212911a9f08898
 
 ]
